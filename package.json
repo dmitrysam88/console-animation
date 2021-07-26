@@ -1,8 +1,12 @@
 {
   "name": "console-animator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmitrysam88/console-animator.git"
+},
   "scripts": {
     "build": "tsc --project tsconfig.json",
     "run": "node dist/test.js",
