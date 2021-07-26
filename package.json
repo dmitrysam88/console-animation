@@ -1,0 +1,19 @@
+{
+  "name": "console-animation",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "run": "node dist/test.js",
+    "start": "npm run build && npm run run",
+    "prepublish": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.4.1",
+    "typescript": "^4.3.5"
+  }
+}
