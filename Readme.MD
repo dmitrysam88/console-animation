@@ -1,4 +1,4 @@
-# Console spinner
+# Console animation
 
 It is the library to show progress in the terminal (console).
 
