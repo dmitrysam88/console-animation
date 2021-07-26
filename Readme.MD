@@ -5,7 +5,7 @@ It is the library to show progress in the terminal (console).
 Code example:
 
 ```js
-const createAnimation = require('console-animation');
+const createAnimation = require('console-animator').default;
 
 import { promisify } from 'util';
 
