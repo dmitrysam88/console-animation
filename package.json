@@ -11,7 +11,7 @@
     "build": "tsc --project tsconfig.json",
     "run": "node dist/test.js",
     "start": "npm run build && npm run run",
-    "prepublish": "npm install && npm run build"
+    "prepublish": "npm run build"
   },
   "keywords": [],
   "author": "",
