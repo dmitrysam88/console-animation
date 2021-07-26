@@ -1,4 +1,4 @@
-# Console animation
+# Console animator
 
 It is the library to show progress in the terminal (console).
 
